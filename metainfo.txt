@@ -5,7 +5,7 @@ Published in: ''
 
 Description: 'Uplifted hierarchical risk parity based FRM portfolio construction.'
 
-Keywords: 'FRM (Financial Risk Meter), Emerging Markets, Uplifted Hierarchical Risk Parity, keyword4, keyword5'
+Keywords: 'FRM (Financial Risk Meter)', 'Emerging Markets', 'Uplifted Hierarchical Risk Parity', 'Inverse lambda', 'Min Variance'
 
 Author: 'Souhir Ben Amor'
 
