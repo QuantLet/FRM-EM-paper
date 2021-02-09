@@ -1,0 +1,14 @@
+
+Name of Quantlet: FRM-EM-paper
+
+Published in: ''
+
+Description: 'Uplifted hierarchical risk parity based FRM portfolio construction.'
+
+Keywords: 'FRM (Financial Risk Meter), Emerging Markets, Uplifted Hierarchical Risk Parity'
+
+Author: 'Souhir Ben Amor'
+
+See also: ''
+
+Submitted:  '08.02.2021'
