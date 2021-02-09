@@ -7,7 +7,7 @@ Code for HRP is based on Lopez de Prado, M. (2018). Advances in Financial
 Machine Learning. Wiley. The code has been adapted in order to be used with
 python 3 and the data set.
  
-@author: Souhir Ben Amor
+@author: Souhir Ben Amor based on 'Julian Woessner' original code.
 @date: 20201010
 """
 
